@@ -1,0 +1,17 @@
+init -3 python:
+    name_hicchan = u"Хиттян"
+    name_sicchan = u"Ситтян"
+    name_shizune = u"Сидзунэ"
+    name_kenji = u"Кендзи"
+    name_sae = u"Саэ"
+    name_jigoro = u"Жигоро"
+    name_tatibana = u"Татибана"
+    name_ibarazaki = u"Ибарадзаки"
+    name_ikezawa = u"Икэдзава"
+    name_tezuka = u"Тэдзука"
+    name_hakamichi = u"Хакамити"
+    name_shiraki = u"Сираки"
+    name_shinichi = u"Синити"
+    name_saionji = u"Сайондзи"
+    name_uchan = u"Ю-тян"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
